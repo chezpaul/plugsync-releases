@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (83)</title>
+      <pubDate>Thu, 12 Nov 2026 15:14:12 -0800</pubDate>
+      <sparkle:version>83</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Library views in the tool panel, hairlines between Install Manager plugins, one Check for Updates item that also checks PlugSync.]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-83/PlugSync-0.1-83.zip" sparkle:edSignature="LXW8IVdy4hUpb6wEXA4UoeHRcxpt5y/9g5xP3vh/gg7b5O77CYcKONxvYdDJ6RcB3gLZ3vvR+daggsexHjkMCA==" length="5626494" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (82)</title>
       <pubDate>Thu, 12 Nov 2026 15:09:08 -0800</pubDate>
       <sparkle:version>82</sparkle:version>
