@@ -3,5 +3,14 @@
   <channel>
     <title>PlugSync</title>
     <language>en</language>
+    <item>
+      <title>PlugSync 0.1 (82)</title>
+      <pubDate>Thu, 12 Nov 2026 15:09:08 -0800</pubDate>
+      <sparkle:version>82</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Sparkle updates from GitHub, global Control-Option-Command-P for the dashboard, Unused list with DELETE, orange progress pill.]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-82/PlugSync-0.1-82.zip" sparkle:edSignature="qbMyPQ9DY0bXpLo3pRZArEvQvf23BhotbW1v0ZeMtFqBJ9MwBmHqb8J8qBUYkJfb5Qpj6wit/68w9EX9HNUuBA==" length="5623552" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
