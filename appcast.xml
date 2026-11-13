@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (101)</title>
+      <pubDate>Fri, 13 Nov 2026 11:03:02 -0800</pubDate>
+      <sparkle:version>101</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Intel-only note for Pro Tools, New Plugins favorites, last view kept at launch]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-101/PlugSync-0.1-101.zip" sparkle:edSignature="WfPSsgpea8aUXqfUxWvOLUNsimacd7mreubvS6LT+3Bk+t/U24S5uFYOExxCeSIr3oQulAJahR/GKCDFmDSDAQ==" length="5847542" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (100)</title>
       <pubDate>Fri, 13 Nov 2026 10:54:44 -0800</pubDate>
       <sparkle:version>100</sparkle:version>
