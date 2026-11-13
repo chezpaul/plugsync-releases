@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (99)</title>
+      <pubDate>Fri, 13 Nov 2026 10:49:35 -0800</pubDate>
+      <sparkle:version>99</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Engraved panels back to B, count panel with AAX, AU and ARA]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-99/PlugSync-0.1-99.zip" sparkle:edSignature="1SHhR7G/asSIwJN1R1cB1AOeeVFuC2JV23SIYjofZ41BaaGuybDGsBSa7pdbFw5BKQqGvI40OyRhwxhKLFLMBw==" length="5833778" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (98)</title>
       <pubDate>Fri, 13 Nov 2026 10:43:52 -0800</pubDate>
       <sparkle:version>98</sparkle:version>
