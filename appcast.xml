@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (94)</title>
+      <pubDate>Fri, 13 Nov 2026 10:18:20 -0800</pubDate>
+      <sparkle:version>94</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Avid plugins stay out of New Plugins]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-94/PlugSync-0.1-94.zip" sparkle:edSignature="fkqPyV0jaanYkHOI5IjC+pF1AISU+QP+tYWrvLK1XWG2q2nphHndCPXqw8+9/kqoL4wiDlp80MkF+LDe740VBg==" length="5813217" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (93)</title>
       <pubDate>Thu, 12 Nov 2026 22:54:23 -0800</pubDate>
       <sparkle:version>93</sparkle:version>
