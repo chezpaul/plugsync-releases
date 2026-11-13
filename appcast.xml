@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (93)</title>
+      <pubDate>Thu, 12 Nov 2026 22:54:23 -0800</pubDate>
+      <sparkle:version>93</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[SCREENSHOTS: week ranges and pick list; fixed dates; Pro Tools and Logic status line]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-93/PlugSync-0.1-93.zip" sparkle:edSignature="Qz70+Bi8iEb+ak2/2kbigTpr2x1i2MkWTLdOZKVl0cq7sjDG6LUJYYZMLDMrLRU+vJO3FMldqil7cgSS1a+SDw==" length="5812651" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (92)</title>
       <pubDate>Thu, 12 Nov 2026 22:25:48 -0800</pubDate>
       <sparkle:version>92</sparkle:version>
