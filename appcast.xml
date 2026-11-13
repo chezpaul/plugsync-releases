@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (100)</title>
+      <pubDate>Fri, 13 Nov 2026 10:54:44 -0800</pubDate>
+      <sparkle:version>100</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Intel-only line split into AAX and AU]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-100/PlugSync-0.1-100.zip" sparkle:edSignature="6wjJVNCFsdsLlWx/Y9NPE/25/DG5FgYR0OJS24IvCUGf4+wVbH/vSaPEA4TzflvEQgBNBKd9tQIC+3BXff6hAg==" length="5837652" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (99)</title>
       <pubDate>Fri, 13 Nov 2026 10:49:35 -0800</pubDate>
       <sparkle:version>99</sparkle:version>
