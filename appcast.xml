@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (106)</title>
+      <pubDate>Sat, 14 Nov 2026 17:32:05 -0800</pubDate>
+      <sparkle:version>106</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Status LEDs line up, RUNNING ON SILICON, VST3 counts beside AAX and AU]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-106/PlugSync-0.1-106.zip" sparkle:edSignature="i0FowwwgHX8NG+rQi3u4Ha9x/q0ncygXBcGSDNbDnZ5BtU9+XEM3tW11/5QS7VzYzoJCJf4xDSNdpH4Wq0ClBQ==" length="5864963" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (105)</title>
       <pubDate>Sat, 14 Nov 2026 17:28:17 -0800</pubDate>
       <sparkle:version>105</sparkle:version>
