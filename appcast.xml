@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (108)</title>
+      <pubDate>Sat, 14 Nov 2026 17:47:16 -0800</pubDate>
+      <sparkle:version>108</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[VST3 plugins now show under the VST3 filter and in every VST3 count]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-108/PlugSync-0.1-108.zip" sparkle:edSignature="wDwDsirslccJKuiDwcc+YRXoPG4zW6RbeFe2AJD/PUQQLxM0VcAaTnW+8R6yPb2XAlQzlV0745xzNFpkisTSDQ==" length="5872894" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (107)</title>
       <pubDate>Sat, 14 Nov 2026 17:39:41 -0800</pubDate>
       <sparkle:version>107</sparkle:version>
