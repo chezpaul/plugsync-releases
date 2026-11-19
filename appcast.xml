@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (109)</title>
+      <pubDate>Wed, 18 Nov 2026 16:15:21 -0800</pubDate>
+      <sparkle:version>109</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Intel AAX flags a plugin as Intel. Plugins named apart per format (UVI, Valhalla, Scuffham, iZotope hooks) group as one. Native Instruments VST3 plugins sit under Native Instruments.]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-109/PlugSync-0.1-109.zip" sparkle:edSignature="auuhRzF/mLOfxCgmgE7CxsNn5Ouzutde6iWJfRKhHgeKlt/FU6KaWVFp5OqOTCvtNdgF7NfrTQb/284jaV2IBA==" length="5875170" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (108)</title>
       <pubDate>Sat, 14 Nov 2026 17:47:16 -0800</pubDate>
       <sparkle:version>108</sparkle:version>
