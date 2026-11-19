@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (132)</title>
+      <pubDate>Thu, 19 Nov 2026 15:10:41 -0800</pubDate>
+      <sparkle:version>132</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Add Screenshot… in the plugin menu; title, count and status panels side by side]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-132/PlugSync-0.1-132.zip" sparkle:edSignature="duhAB85tPk4xlSy789YKmwTCEKkRd38YXbmFxOytS3nndBdqI2fVq7AtQjl+HF4qhQwslbRGOmfKIHQ3WUKMCg==" length="6284012" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (131)</title>
       <pubDate>Thu, 19 Nov 2026 15:01:37 -0800</pubDate>
       <sparkle:version>131</sparkle:version>
