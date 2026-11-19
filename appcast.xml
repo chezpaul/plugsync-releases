@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (118)</title>
+      <pubDate>Wed, 18 Nov 2026 17:37:09 -0800</pubDate>
+      <sparkle:version>118</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Bad Plugin Finder groundwork: helper can park plugins in Bad Plugin Search folders; scanner skips them]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-118/PlugSync-0.1-118.zip" sparkle:edSignature="H85I1GuDZrAS86+0gWoO4/j0WBmv/JRZ51P4hv49/QJpYwX0eRdYCTQzS8t8sk7ilA13+k+lwOhW7HIxC/vgAg==" length="5995641" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (117)</title>
       <pubDate>Wed, 18 Nov 2026 17:26:50 -0800</pubDate>
       <sparkle:version>117</sparkle:version>
