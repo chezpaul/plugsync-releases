@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (120)</title>
+      <pubDate>Wed, 18 Nov 2026 17:47:16 -0800</pubDate>
+      <sparkle:version>120</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Find a Bad Plugin: halving search over AAX or AU plugins, quits and reopens the DAW each round]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-120/PlugSync-0.1-120.zip" sparkle:edSignature="unTZiSeLIIfq5T1Diy783+95XsLfJIjy3vLUu13zhuTEElplz1t1zJ3bqJlpTMFjKNu/8VaT9T/iNsdJ+ja3Cg==" length="6091754" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (119)</title>
       <pubDate>Wed, 18 Nov 2026 17:41:56 -0800</pubDate>
       <sparkle:version>119</sparkle:version>
