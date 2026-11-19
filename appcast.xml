@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (124)</title>
+      <pubDate>Thu, 19 Nov 2026 09:42:55 -0800</pubDate>
+      <sparkle:version>124</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Tools > Find Versions: Homebrew, plugin update feeds, manager-app files, source report]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-124/PlugSync-0.1-124.zip" sparkle:edSignature="LsWKlVjxCJRSEfwHyk1FyjlVkzsMr5bRqqnEM/YOf/CUi4lJ62TCQPmsANsMQmGomwjEbM3ANApK1lY5tuTqAg==" length="6243180" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (123)</title>
       <pubDate>Wed, 18 Nov 2026 19:10:18 -0800</pubDate>
       <sparkle:version>123</sparkle:version>
