@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (117)</title>
+      <pubDate>Wed, 18 Nov 2026 17:26:50 -0800</pubDate>
+      <sparkle:version>117</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Remove Old Installers: safer reading of package details.]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-117/PlugSync-0.1-117.zip" sparkle:edSignature="2l79D576U7USoS/4ghkv7k/W+WuKFhbQHwxjaDkAMy2FaGj0TLjZKywGkN6Epjy4j5gRTcDNubIoBKaktPkSDw==" length="5994824" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (116)</title>
       <pubDate>Wed, 18 Nov 2026 17:24:32 -0800</pubDate>
       <sparkle:version>116</sparkle:version>
