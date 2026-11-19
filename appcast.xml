@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (134)</title>
+      <pubDate>Thu, 19 Nov 2026 15:31:50 -0800</pubDate>
+      <sparkle:version>134</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Plugin Compatibility view: architecture and minimum macOS per copy, follows the format filter]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-134/PlugSync-0.1-134.zip" sparkle:edSignature="/HZvbeuvQmy+d7meLmPunKou4jSCCFCJiN1frnJ7npHHyOyrag2wvGMSfzvFl3eVPZbGx5LqpafSeDmxSCx2Bw==" length="6318235" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (133)</title>
       <pubDate>Thu, 19 Nov 2026 15:26:20 -0800</pubDate>
       <sparkle:version>133</sparkle:version>
