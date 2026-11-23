@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (138)</title>
+      <pubDate>Mon, 23 Nov 2026 11:13:55 -0800</pubDate>
+      <sparkle:version>138</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Waves plugins listed one by one; their Plugindex pictures import]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-138/PlugSync-0.1-138.zip" sparkle:edSignature="OoTP5IZqEKHKaXfqQmdJZM38JNv+G7zjkRgtkjNKTVuB9b8QTxtS95rEKRg7cu73fYo8KpadAwUYO1s2Jfv7Dg==" length="6381655" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (137)</title>
       <pubDate>Mon, 23 Nov 2026 10:57:16 -0800</pubDate>
       <sparkle:version>137</sparkle:version>
