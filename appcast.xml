@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (140)</title>
+      <pubDate>Tue, 24 Nov 2026 16:43:19 -0800</pubDate>
+      <sparkle:version>140</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[View switches no longer freeze]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-140/PlugSync-0.1-140.zip" sparkle:edSignature="d+IGkJT6f9uJk7kTP7B89fEwrjQt3Xx6Di6D1sJ5N8X/y1Lto9kt6oKHcVOdbeHzVg8CZ2tNH1OqnSTmIE0ZCA==" length="6382374" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (139)</title>
       <pubDate>Mon, 23 Nov 2026 11:33:24 -0800</pubDate>
       <sparkle:version>139</sparkle:version>
