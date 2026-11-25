@@ -4,6 +4,15 @@
     <title>PlugSync</title>
     <language>en</language>
     <item>
+      <title>PlugSync 0.1 (142)</title>
+      <pubDate>Tue, 24 Nov 2026 18:02:39 -0800</pubDate>
+      <sparkle:version>142</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Hover text no longer stays on screen after hiding PlugSync]]></description>
+      <enclosure url="https://github.com/chezpaul/plugsync-releases/releases/download/v0.1-142/PlugSync-0.1-142.zip" sparkle:edSignature="8fb0QFvMoCK7APxmqWHUh2z62rC4AZzxzVtUcVXTiuUBDka367iw3ts3ocXBVtyyuZoRiqmn/dumOrzptqOzDQ==" length="6409759" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugSync 0.1 (141)</title>
       <pubDate>Tue, 24 Nov 2026 17:02:44 -0800</pubDate>
       <sparkle:version>141</sparkle:version>
